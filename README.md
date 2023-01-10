@@ -1,27 +1,31 @@
 <h2 align="left">Hi 👋, I'm Michał</h2>
 
-###
+##  Currently, I am learning:
+- Next.js<br>
+- Unit Testing
 
-<p align="left">Hello World!!</p>
+##  My project:
+- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem)<br>
+- [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)<br>
+- [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app)<br>
 
-###
 
-<br clear="both">
-
-<h4 align="left">Languages and Tools:</h4>
-
-###
-
-<br clear="both">
-
+## Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="50" alt="html5 logo"  />
+  HTML5<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="50" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="50" alt="sass logo"  />
+   CSS<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="50" alt="javascript logo"  />
+   JavaScript<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="50" alt="typescript logo"  />
+   TypeScript<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="50" alt="react logo"  />
+  React<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="50" alt="redux logo"  />
+  Redux<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="50" alt="redux logo"  />
+  Figma<br>
 </div>
 
-###
+
