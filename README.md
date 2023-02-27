@@ -23,9 +23,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="50" alt="react logo"  />
   React<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="50" alt="redux logo"  />
-  Redux<br>
+  Redux Toolkit<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="50" alt="redux logo"  />
   Figma<br>
 </div>
 
+## Technologies I used: 
+- Formik <br>
+- Yup<br>
+- React Router<br>
+- React-toastify
+- VSC 
+- I18next<br>
+- Firebase<br>
+- Git <br>
+- Axios 
+<strong> Styling:</strong> 
+- Styled Component<br>
+- Tailwind CSS<br>
+- MUI<br>
+- SCSS<br>
 
