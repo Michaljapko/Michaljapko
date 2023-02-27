@@ -37,7 +37,7 @@
 - I18next<br>
 - Firebase<br>
 - Git <br>
-- Axios <br>
+- Axios <br><br>
 <strong> Styling:</strong> 
 - Styled Component<br>
 - Tailwind CSS<br>
