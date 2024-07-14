@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Michał</h2>
-「 I am a frontend application developer from Poland 」
-
+I am a frontend application developer from Poland
 
 ##  My project:
 
@@ -44,34 +43,34 @@
 ## My Challenges:
 
 - Check modern frontend frameworke (create simple project):
-   [ ] Svelte
-   [ ] Ember.js
-   [ ] Prereact
-   [ ] Svelte
-   [ ] Astro
-   [ ] Vue.js
-   [ ] Angular
-   [ ] SolidJS
-   [ ] Qwik
-
+- [ ] Svelte  <br>
+- [ ] Ember.js  <br>
+- [ ] Prereact  <br>
+- [ ] Svelte <br>
+- [ ] Astro <br>
+- [ ] Vue.js <br>
+- [ ] Angular <br>
+- [ ] SolidJS <br>
+- [ ] Qwik <br>
+ <br> <br>
 -  Todo list in various programming languages:
-  [ ] Python
-  [X] JavaScript
-  [ ] C++
-  [ ] Java
-  [ ] Ruby
-  [ ] Go
-  [ ] Rust
-
+- [ ] Python <br>
+- [x] JavaScript <br>
+- [ ] C++ <br>
+- [ ] Java <br>
+- [ ] Ruby <br>
+- [ ] Go <br>
+- [ ] Rust <br>
+ <br> <br>
 - Create classic games:
-  [ ] Pong
-  [ ] Tetris
-  [ ] Snake
-  [ ] Breakout
-  [ ] Minesweeper
-  [ ] Space Invaders
-
+- [x] Pong (2022) <br>
+- [ ] Tetris <br>
+- [ ] Snake <br>
+- [ ] Breakout <br>
+- [ ] Minesweeper <br>
+- [ ] Space Invaders <br>
+ <br> <br>
 - Backend journey:
-  [x] NestJS
-  [ ] Express.js
+- [x] NestJS (2023) <br>
+- [ ] Express.js <br>
 
