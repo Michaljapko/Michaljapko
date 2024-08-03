@@ -3,10 +3,11 @@ I am a frontend application developer from Poland
 
 ##  My project:
 
-- RPG Game - WIP - (2024)<br>
-- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - (2022-2024)<br>
-- [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)  - (2022)<br>
-- [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app) - (2022)<br>
+- RPG Game - WIP - `2024`<br>
+- Guitar Training App - WIP - `2024`<br>
+- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - `2022- 2024`<br>
+- [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)  - `2024`<br>
+- [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app) - `2024`<br>
 
 ## Specializations:
 <div align="left">
@@ -34,7 +35,7 @@ I am a frontend application developer from Poland
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-jab%C5%82o%C5%84ski-1ab920266/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MichaJKrokon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-jab%C5%82o%C5%84ski-1ab920266/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MichaJKrokon) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaljapko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -59,6 +60,7 @@ I am a frontend application developer from Poland
 - [ ] C++ <br>
 - [ ] Java <br>
 - [ ] Ruby <br>
+- [ ] PHP <br>
 - [ ] Go <br>
 - [ ] Rust <br>
  <br> <br>
@@ -71,6 +73,6 @@ I am a frontend application developer from Poland
 - [ ] Space Invaders <br>
  <br> <br>
 - Backend journey:
-- [x] NestJS (2023) <br>
+- [x] NestJS - `2023 <br>
 - [ ] Express.js <br>
 
