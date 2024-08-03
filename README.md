@@ -2,12 +2,14 @@
 I am a frontend application developer from Poland
 
 ##  My project:
-
-- RPG Game - WIP - `2024`<br>
-- Guitar Training App - WIP - `2024`<br>
 - [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - `2022 - 2024`<br>
 - [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)  - `2024`<br>
 - [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app) - `2024`<br>
+
+- RPG Game - WIP - `2024`<br>
+- Guitar Training App - WIP - `2024`<br>
+- Virtual synth - WIP - `2024`<br>
+- Game of Life 
 
 ## Specializations:
 <div align="left">
