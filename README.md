@@ -9,7 +9,8 @@ I am a frontend application developer from Poland
 - RPG Game - WIP - `2024`<br>
 - Guitar Training App - WIP - `2024`<br>
 - Virtual synth - WIP - `2024`<br>
-- Game of Life 
+- Game of Life
+- Earth Game
 
 ## Specializations:
 <div align="left">
