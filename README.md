@@ -5,7 +5,7 @@ I am a frontend application developer from Poland
 
 - RPG Game - WIP - `2024`<br>
 - Guitar Training App - WIP - `2024`<br>
-- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - `2022- 2024`<br>
+- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - `2022 - 2024`<br>
 - [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)  - `2024`<br>
 - [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app) - `2024`<br>
 
@@ -73,6 +73,6 @@ I am a frontend application developer from Poland
 - [ ] Space Invaders <br>
  <br> <br>
 - Backend journey:
-- [x] NestJS - `2023 <br>
+- [x] NestJS - `2023` <br>
 - [ ] Express.js <br>
 
