@@ -13,10 +13,10 @@ I specialize in **Frontend Development**, and I also work partially as a **Fulls
 
 ### 🚀 Projects
 
-- 🌍 **riff.quest**  
+- 🌍 [riff.quest](https://riff.quest/)  
   Gamification platform for guitar practice  
 
-- 🚀 **automasnap.com**  
+- 🚀 [automasnap.com](https://www.automasnap.com/)  
   AI-powered inventory acceleration tool  
 
 ---
