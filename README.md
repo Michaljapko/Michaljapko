@@ -1,81 +1,37 @@
 <h2 align="left">Hi 👋, I'm Michał</h2>
-I am a frontend application developer from Poland
+I am a frontend application developer from Poland 🇵🇱  
 
-##  My project:
-- [Ćwiczymy Razem](https://github.com/CodeReactOrNext/CwiczymyRazem) - `2022 - 2024`<br>
-- [Kanban Task Management](https://github.com/Michaljapko/kanban-task-management-web-app)  - `2024`<br>
-- [Devjobs Web App](https://github.com/CodeReactOrNext/Devjobs_web_app) - `2024`<br>
+💼 Currently working at **Automa**  
+🌍 https://automa.net/
 
-- RPG Game - WIP - `2024`<br>
-- Guitar Training App - WIP - `2024`<br>
-- Virtual synth - WIP - `2024`<br>
-- Game of Life
-- Earth Game
+---
 
-## Specializations:
-<div align="left">
-  - Next.js <br>
-  - React <br>
-  - Tailwind <br>
-  - Material UI <br>
-  - Typescript <br>
-  - Playwright <br>
-</div>
+## 👨‍💻 About Me
 
-## Books/articles that I find inspiring:
-<div align="left">
-  - Clean Code - Robert C. Martin  <br>
-  - Tao of React - Alexander Kondov <br>
-  - Pragmatic Programmer - David Thomas, Andrew Hunt  <br>
-</div>
+I specialize in **Frontend Development**, but I also work partially as a **Fullstack Developer** — building features from frontend to backend.
 
-## Courses:
-<div align="left">
-  - Przeprogramowani - Opanuj Frontend <br>
-  - Master Digital Product Design - Rob Sutcliffe <br>
-  - Next.js 14, React, JavaScript, Understanding TypeScript, Node.js, JavaScript Testing, Svelte.js - Maximilian Schwarzmüller <br>
-  - Complete React Developer (w/ Redux, Hooks, GraphQL) - Andrei Neagoie, Yihua Zhang  <br>
-</div>
+---
+
+## 🏢 Working on:
+
+- 🌐 https://automa.net/
+
+---
+
+## 🚀 Projects:
+
+- 🌍 https://riff.quest/ – Gamification platform for guitar practice  
+- 🚀 https://www.automasnap.com/ – AI-powered inventory acceleration tool
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-jab%C5%82o%C5%84ski-1ab920266/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MichaJKrokon) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-jab%C5%82o%C5%84ski-1ab920266/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MichaJKrokon)
+
+---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaljapko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-## My Challenges:
-
-- Check modern frontend frameworke (create simple project):
-- [ ] Svelte  <br>
-- [ ] Ember.js  <br>
-- [ ] Prereact  <br>
-- [ ] Svelte <br>
-- [ ] Astro <br>
-- [ ] Vue.js <br>
-- [ ] Angular <br>
-- [ ] SolidJS <br>
-- [ ] Qwik <br>
- <br> <br>
--  Todo list in various programming languages:
-- [ ] Python <br>
-- [x] JavaScript <br>
-- [ ] C++ <br>
-- [ ] Java <br>
-- [ ] Ruby <br>
-- [ ] PHP <br>
-- [ ] Go <br>
-- [ ] Rust <br>
- <br> <br>
-- Create classic games:
-- [x] Pong (2022) <br>
-- [ ] Tetris <br>
-- [ ] Snake <br>
-- [ ] Breakout <br>
-- [ ] Minesweeper <br>
-- [ ] Space Invaders <br>
- <br> <br>
-- Backend journey:
-- [x] NestJS - `2023` <br>
-- [ ] Express.js <br>
-
